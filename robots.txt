@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pohpoushei.jochenontour.blog/sitemap.xml
